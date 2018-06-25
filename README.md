@@ -1,2 +1,2 @@
 # digit_recognizer
-CNN for digit recognition using the MNIST handwritten digit database
+CNN wiith keras for digit recognition using the MNIST handwritten digit database
